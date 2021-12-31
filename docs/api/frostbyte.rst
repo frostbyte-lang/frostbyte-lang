@@ -1,0 +1,4 @@
+frostbyte
+=========
+
+.. automodule:: frostbyte

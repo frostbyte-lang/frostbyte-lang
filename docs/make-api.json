@@ -1,0 +1,13 @@
+{
+    "pkg_name": "frostbyte",
+    "pkg_path": "..",
+    "apidocs_folder": "api",
+    "toc_filename": "api-toc.rst",
+    "include_members": {},
+    "exclude_members": {},
+    "include_modules": [
+        "frostbyte.scripts"
+    ],
+    "exclude_modules": [],
+    "member_fullnames": {}
+}
